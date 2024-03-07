@@ -135,26 +135,43 @@ This repository contains my radio configuration for my Baofeng UV-5R VHF handhel
 | 82  | `SEA 16` | Calling and Emergency       |
 | 83  | `SEA 72` | Non-commercial ship-to-ship |
 
-## Railroad Channels (85-99)
+## Railroad Channels (84-99)
+
+### General MBTA (84-85)
+
+| #   | Name      | Use                          |
+| --- | --------- | ---------------------------- |
+| 84  | `39 KEOL` | Keolis Trouble Desk          |
+| 85  | `41 OLDC` | Keolis Old Colony Dispatcher |
+
+### Boston South Station and South/West (86-90)
 
 | #   | Name      | Use                                     |
 | --- | --------- | --------------------------------------- |
-| 84  | `09 MENG` | Maine Narrow Gauge Railroad             |
-| 85  | `14 HVRH` | CSX, Wilmington to Haverhill            |
-| 86  | `20 WORC` | Worcester Line                          |
-| 87  | `23 BOSY` | Amtrak Boston South Yard                |
-| 88  | `26 MENG` | Maine Narrow Gauge Railroad             |
-| 89  | `32 WILM` | Somerville to Wilmington Jct            |
-| 90  | `32 MECR` | Maine Central Railroad (East of SoPo)   |
-| 91  | `39 KEOL` | Keolis Trouble Desk                     |
-| 92  | `41 OLDC` | Keolis Old Colony Dispatcher            |
-| 93  | `42 BOSY` | Amtrak Boston South Yard                |
-| 94  | `54 NEC`  | Northeast Corridor (north of New Haven) |
-| 95  | `67 SOMR` | Boston North Station to Somerville      |
-| 96  | `70 B&MD` | Boston & Maine Dispatcher               |
-| 97  | `87 BON`  | Boston North Station                    |
-| 98  | `92 BOSY` | Amtrak Boston South Yard                |
-| 99  | `94 B&MT` | Boston & Maine (Trails)                 |
+| 86  | `23 BOSY` | Amtrak Boston South Yard                |
+| 87  | `42 BOSY` | Amtrak Boston South Yard                |
+| 88  | `92 BOSY` | Amtrak Boston South Yard                |
+| 89  | `20 WORC` | Worcester Line                          |
+| 90  | `54 NEC`  | Northeast Corridor (north of New Haven) |
+
+### Boston North Station and North (91-97)
+
+| #   | Name      | Use                                 |
+| --- | --------- | ----------------------------------- |
+| 91  | `87 BON`  | Boston North Station                |
+| 92  | `67 SOMR` | Boston North Station to Somerville  |
+| 93  | `32 WILM` | Somerville to Wilmington Jct        |
+| 94  | `14 HVRH` | CSX, Wilmington to Haverhill        |
+| 95  | `70 B&MD` | Boston & Maine, Dispatcher to Train |
+| 96  | `94 B&MT` | Boston & Maine, Train to Dispatcher |
+| 97  | `34 BRNS` | Portland to Brunswick               |
+
+### Heritage Railroads (98-99)
+
+| #   | Name      | Use                         |
+| --- | --------- | --------------------------- |
+| 98  | `09 MENG` | Maine Narrow Gauge Railroad |
+| 99  | `26 MENG` | Maine Narrow Gauge Railroad |
 
 ## FRS (100-120)
 
