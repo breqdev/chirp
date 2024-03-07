@@ -69,16 +69,26 @@ This repository contains my radio configuration for my Baofeng UV-5R VHF handhel
 | 34  | `BAR HBR` | Bar Harbor (Ellsworth)           |
 | 35  | `UMAINE`  | UMaine Orono                     |
 
-### New York City (40-49)
+### New York City (37-44)
 
 | #   | Name      | Description          |
 | --- | --------- | -------------------- |
-| 40  | `GLENOAK` | LIMARC, Glen Oaks    |
-| 41  | `MANHATN` | Manhattan            |
-| 42  | `ALPINE`  | Alpine, NJ           |
-| 43  | `WECA NY` | Westchester, NY      |
-| 44  | `RCKRFLR` | Rockefeller Center   |
-| 45  | `ABC  NY` | ESPN/ABC/Disney, NYC |
+| 37  | `GLENOAK` | LIMARC, Glen Oaks    |
+| 38  | `MANHATN` | Manhattan            |
+| 39  | `ALPINE`  | Alpine, NJ           |
+| 40  | `WECA NY` | Westchester, NY      |
+| 41  | `RCKRFLR` | Rockefeller Center   |
+| 42  | `ABC  NY` | ESPN/ABC/Disney, NYC |
+
+### Toronto (45-49)
+
+| #   | Name      | Description                   |
+| --- | --------- | ----------------------------- |
+| 45  | `CN TOWR` | VA3RCI, CN Tower              |
+| 46  | `SKYWIDE` | VE3SKY, Skywide Club repeater |
+| 47  | `SSPBD`   | SSPBD repeater, VE3WOO        |
+| 48  | `DOWNTWN` | VA3ATL, downtown Toronto      |
+| 49  | `MSSAUGA` | Mississauga, ON               |
 
 ### Upstate NY / Rochester (50-59)
 
