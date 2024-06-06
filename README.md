@@ -13,12 +13,13 @@ This repository contains my radio configuration for my Baofeng UV-5R VHF handhel
 | 0   | `2M CALL` | 146.52    | National 2m calling frequency   |
 | 1   | `70 CALL` | 446.00    | National 70cm calling frequency |
 
-### Other (2-7)
+### Ari and friends (2-4)
 
-| #   | Name      | Frequency | Description     |
-| --- | --------- | --------- | --------------- |
-| 2   | `2M MEOW` | 146.43    | Ari and friends |
-| 3   | `70 MEOW` | 446.10    | Ari and friends |
+| #   | Name      | Frequency | Description       |
+| --- | --------- | --------- | ----------------- |
+| 2   | `2M MEOW` | 146.43    | Simplex, PL 103.5 |
+| 3   | `70 MEOW` | 446.10    | Simplex, PL 103.5 |
+| 4   | `FRSMEOW` | 462.7125  | Simplex, PL 103.5 |
 
 ## Repeaters (10-79)
 
@@ -105,23 +106,29 @@ This repository contains my radio configuration for my Baofeng UV-5R VHF handhel
 | 58  | `UROC 7`  | University of Rochester, 70cm         |
 | 59  | `MONROE`  | Monroe County EOC Building            |
 
-### Hanksville, UT + Los Alamos, NM (60-64)
+### Hanksville, UT
+
+| #   | Name      | Description                       |
+| --- | --------- | --------------------------------- |
+| 60  | `HNRY MT` | Sinbad Desert, Henry Mountain, UT |
+| 61  | `HORN MT` | Sinbad Desert, Horn Mountain, UT  |
+
+### Los Alamos, NM
 
 | #   | Name      | Description                        |
 | --- | --------- | ---------------------------------- |
-| 60  | `ELLN PK` | Sinbad Desert, Ellen Peak, UT      |
-| 61  | `LS ALMS` | KA5BIW, Los Alamos, NM             |
-| 62  | `PAJAR 2` | Pajarito Mtn, Los Alamos, NM, 2m   |
-| 63  | `PAJAR 7` | Pajarito Mtn, Los Alamos, NM, 70cm |
-| 64  | `BARANCA` | Barranca Mesa, Santa Fe club, NM   |
+| 63  | `LS ALMS` | KA5BIW, Los Alamos, NM             |
+| 64  | `PAJAR 2` | Pajarito Mtn, Los Alamos, NM, 2m   |
+| 65  | `PAJAR 7` | Pajarito Mtn, Los Alamos, NM, 70cm |
+| 66  | `BARANCA` | Barranca Mesa, Santa Fe club, NM   |
 
-### Seattle (65-69)
+### Seattle (67-69)
 
 | #   | Name      | Description                |
 | --- | --------- | -------------------------- |
-| 65  | `PGT SND` | Puget Sound Repeater Group |
-| 66  | `SEATAC`  | Sea-Tac Airport            |
-| 67  | `CLMBIA`  | Sea-Tac Airport            |
+| 67  | `PGT SND` | Puget Sound Repeater Group |
+| 68  | `SEATAC`  | Sea-Tac Airport            |
+| 69  | `CLMBIA`  | Sea-Tac Airport            |
 
 ### San Francisco Bay Area (70-79)
 
@@ -172,8 +179,8 @@ This repository contains my radio configuration for my Baofeng UV-5R VHF handhel
 | 92  | `67 SOMR` | Boston North Station to Somerville  |
 | 93  | `32 WILM` | Somerville to Wilmington Jct        |
 | 94  | `14 HVRH` | CSX, Wilmington to Haverhill        |
-| 95  | `70 B&MD` | Boston & Maine, Dispatcher to Train |
-| 96  | `94 B&MT` | Boston & Maine, Train to Dispatcher |
+| 95  | `70 BM D` | Boston & Maine, Dispatcher to Train |
+| 96  | `94 BM T` | Boston & Maine, Train to Dispatcher |
 | 97  | `34 BRNS` | Portland to Brunswick               |
 
 ### Heritage Railroads (98-99)
